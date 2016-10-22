@@ -391,7 +391,7 @@ hr.line {
 
 .iphone {
     position: relative;
-    height: 200px;
+    height: 400px;
 }
 
 .iphone img {
@@ -400,7 +400,8 @@ hr.line {
     left: 0;
     right: 0;
     width: 100%;
-    max-width: 440px;
+    max-width: 100%;
+    margin-top: -13%
 }
 
 
